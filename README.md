@@ -12,7 +12,7 @@
 - **Keyword**: _logical database design, physical database design, ERD, T-SQL, data model, normalization, 3NF, Microsoft SQL Server_.
 
 ## Functional description
-- <a href="Part1_DBI202x_ASM1_phupaFX07929.pdf" target="_blank">Part 1 - _Analyse and design database model_</a> : this part presents the process of:
+- <a href="Part1_DBI202x_ASM1_phupaFX07929.docx" target="_blank">Part 1 - _Analyse and design database model_</a> : this part presents the process of:
   - sdjsd
 
 
